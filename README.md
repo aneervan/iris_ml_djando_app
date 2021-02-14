@@ -1,1 +1,1 @@
-# iris_ml_djano_app
+# iris_ml_django_app
