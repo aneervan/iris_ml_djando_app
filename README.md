@@ -1,1 +1,1 @@
-# YT-DjangoProject-Iris-App
+# iris_ml_djano_app
